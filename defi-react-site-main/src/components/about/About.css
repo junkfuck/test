@@ -1,0 +1,62 @@
+.about {
+    width: 100%;
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: #000;
+}
+
+.about h2 {
+    margin: 1rem 0;
+    color: #f8f8f8;
+}
+
+.about .container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.about .container > p {
+    margin: 1rem 0 3rem 0;
+    font-size: 1.2rem;
+    color: #f8f8f8;
+}
+
+
+
+
+
+
+
+
+
+.about .icon-container {
+    background-color: var(--primary-blue);
+    border-radius: 50px;
+    display: inline-flex;
+    padding: 1rem;
+}
+
+.about .icon {
+    font-size: 2rem;
+    color: #333;
+}
+
+.about .btn {
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
